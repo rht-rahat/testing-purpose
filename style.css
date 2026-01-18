@@ -24,11 +24,11 @@ ul li a {
   text-decoration: none;
   padding: 5px 10px;
   text-align: center;
-  background-color: aliceblue;
+  background-color: rgb(7, 19, 29);
   color: red;
 }
 
 ul li a:hover {
-  color: blue;
+  color: white;
   background-color: antiquewhite;
 }
