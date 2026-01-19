@@ -52,3 +52,11 @@ button {
   border: none;
   cursor: pointer;
 }
+
+#block-section {
+  display: block;
+  width: 50%;
+  padding: 20px;
+  background-color: #f0f0f0;
+  margin-top: 20px;
+}
